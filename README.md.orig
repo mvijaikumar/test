@@ -1,0 +1,6 @@
+sample text
+<<<<<<< HEAD
+added at the workstation end
+=======
+added at the server end 
+>>>>>>> 612ae68377b37de89904aedc287b9d7b690eb6be
